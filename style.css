@@ -1,0 +1,14 @@
+.row{
+    background-color: aquamarine;
+    border-radius: 8px;
+    margin: 2em;
+    padding: 2em;
+}
+
+.col{
+    text-align: center;
+}
+
+.button{
+    margin: 1em;
+}
